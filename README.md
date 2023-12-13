@@ -1,4 +1,4 @@
-# Little Lemon Backend
+# Meta Back-End Developer Capstone Projet - Little Lemon Web Application
 
 > Little Lemon Backend is a robust Django backend designed to power the Little Lemon app, the API offers endpoints for managing customers, menu items, categories, orders, delivery crew users and user groups.
 
@@ -129,4 +129,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Author
 
-Created by [Mehdi Ait Ouchrif](https://github.com/mehdiaitouchrif).
+Created by [Swarnav Kumar](https://github.com/Swarnav-Kumar).
