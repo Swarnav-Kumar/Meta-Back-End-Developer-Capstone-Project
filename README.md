@@ -1,4 +1,4 @@
-# Meta Back-End Developer Capstone Projet - Little Lemon Web Application
+# Meta Back-End Developer Capstone Project - Little Lemon Web Application
 
 > Little Lemon Backend is a robust Django backend designed to power the Little Lemon app, the API offers endpoints for managing customers, menu items, categories, orders, delivery crew users and user groups.
 
